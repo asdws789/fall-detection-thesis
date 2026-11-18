@@ -1,0 +1,16 @@
+# Core Deep Learning & Computer Vision
+ultralytics>=8.1.0
+opencv-python>=4.9.0
+onnxruntime>=1.17.0
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Graph Neural Networks & ML (Training phase)
+torch>=2.2.0
+torchvision>=0.17.0
+scikit-learn>=1.4.0
+
+# Visualization & Telemetry
+matplotlib>=3.8.0
+tqdm>=4.66.0
+python-docx>=1.1.0
